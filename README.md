@@ -14,4 +14,4 @@ CODED on VISUAL STUDIO CODE
 
 
 
-![LIST!]{LIST.jpg}
+![LIST!](LIST.jpg)
